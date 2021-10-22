@@ -1,0 +1,8 @@
+        @font-face {
+                font-family: pirata;
+                src: url("../fonts/Cimonta\ Personal\ Use.ttf");
+        }
+        body {background-color: black ;border-radius: 20px;}
+        #container {background-color: rgb(12, 71, 181);width: 40%;margin: auto;height: auto;background-size: 100% ;text-align: center;font-family: pirata;transparen}
+        #poema {color: rgb(0, 255, 8);} 
+        

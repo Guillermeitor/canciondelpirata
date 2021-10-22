@@ -1,0 +1,11 @@
+@font-face {
+    font-family:piraton ;
+    src: url();
+}
+#h2pirata {background-color: blue;margin: 20px;text-align: center;width: auto;}
+
+#poema {background-color: rgba(106, 162, 15, 0.652);background-position: right;margin:auto;width: 200px;padding: 20px;border: radius 34px;border-radius: 40px;}
+
+#container {background-image: url(../Images/pirata2.png);
+            width: 80%;margin: auto;background-size: cover;background-position: center;padding: 50px;
+            text-align: center;color: rgb(10, 10, 153) ; text-align: center;
